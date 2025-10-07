@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(55, 53, 62);
+    color: rgb(211, 218, 217);
+    text-align: center;
+
+}
+
+#img img{
+    margin-top:40px;
+    border-radius: 50%;
+    border: 6px solid whitesmoke;
+}
